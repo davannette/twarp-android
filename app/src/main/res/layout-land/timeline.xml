@@ -20,7 +20,7 @@
 
         <Button
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_height="37dp"
             android:text="Refresh"
             android:id="@+id/button"
             android:layout_gravity="right"
@@ -52,7 +52,7 @@
     <LinearLayout
         android:orientation="horizontal"
         android:layout_width="match_parent"
-        android:layout_height="55dp"
+        android:layout_height="35dp"
         android:weightSum="1"
         android:id="@+id/linearLayout3"
         android:layout_alignParentBottom="true">
